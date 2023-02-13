@@ -1,4 +1,8 @@
 package psi_11_o.m17b_fichatrabalho5;
+/**
+ * 
+ * @author a17364
+ */
 
 public class Main {
 
@@ -13,3 +17,8 @@ public class Main {
 
     }
 }
+
+/**
+ * @version 1.5
+ * 
+ */
